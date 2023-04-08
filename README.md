@@ -1,4 +1,4 @@
-# kailash-vue-test
+# SearchList
 
 ## Project setup
 ```
